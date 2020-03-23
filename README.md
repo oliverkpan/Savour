@@ -12,4 +12,4 @@ Savour was a project created for DeltaHacks, by Oliver, Evan, Nephthalim, and Za
 ![Scanning](s2.png)
 
 #### Login (By Evan Wong)
-![Login](login.png)
+![Login](login2.png)
